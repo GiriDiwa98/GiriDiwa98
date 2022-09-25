@@ -23,7 +23,12 @@
 - PHP
 1. Laravel       | https://laravel.com
 2. Codeigniter   | https://codeigniter.com/
-
+- JS
+1. React JS      | https://react-js.org
+2. Vue JS        | https://vuejs.org/
+3. Angular Js    | https://angular.io/
+4. Next JS       | https://nextjs.org/
+5. Nuxt JS       | https://nuxtjs.org/
 
 
 
